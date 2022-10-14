@@ -3,13 +3,13 @@ package testBank;
 public class CheckingAccount extends Account{
     private String accountType = "Checking";
 
-	public CheckingAccount()
+	public CheckingAccount() //creates a checking acct and sets the balance to 0
     {
         super();
         this.setBalance(0);
     }
 
-	public CheckingAccount(double initialDeposit)
+	public CheckingAccount(double initialDeposit) //creates checking acct and changes balance to initial deposit
     {
         super();
         this.deposit(initialDeposit);
@@ -18,9 +18,9 @@ public class CheckingAccount extends Account{
     private String getAccountType()
     {
         return accountType;
-    }
+    } //returns the accountType
 
-    public String getAccountInfo()
+    public String getAccountInfo() //prints out all of the account's info
     {
         return String.format("%nAccount Type: %s Account%n"
                         + "Account Number: %d%n"
