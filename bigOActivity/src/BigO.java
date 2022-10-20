@@ -9,7 +9,7 @@ public class BigO {
         }
     }
 
-    public void printNtimes(int n){
+    public void printNTimes(int n){
         for(int i = 1; i <= n; i++){
             System.out.printf("\nThis has been printed %d times.", i);
         }
