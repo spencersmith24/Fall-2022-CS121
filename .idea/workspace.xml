@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bdf3f7d-5c10-4967-b930-2d488ab7339d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/src/testBank/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/testBank/CheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/src/testBank/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/testBank/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/src/testBank/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/testBank/SavingAccount.java" afterDir="false" />
-    </list>
+    <list default="true" id="3bdf3f7d-5c10-4967-b930-2d488ab7339d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,5 +57,16 @@
       <updated>1665768002371</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
