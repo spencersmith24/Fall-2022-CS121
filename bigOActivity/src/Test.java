@@ -3,7 +3,7 @@ public class Test {
         BigO bigo = new BigO();
 
         bigo.printOnce("I love dogs");
-        bigo.printNtimes(5);
+        bigo.printNTimes(5);
         bigo.printNSquaredTimes(5);
 
     }
