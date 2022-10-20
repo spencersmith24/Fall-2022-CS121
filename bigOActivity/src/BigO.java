@@ -9,4 +9,10 @@ public class BigO {
             System.out.printf("I am %d years old\n", i);
         }
     }
+
+    public void printNtimes(int n){
+        for(int i = 1; i <= n; i++){
+            System.out.printf("\nThis has been printed %d times.", n);
+        }
+    }
 }
