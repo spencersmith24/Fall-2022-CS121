@@ -1,18 +1,17 @@
 public class BigO {
 
 
-
-
-
     public void printNSquaredTimes(int n) {
-        for (int i = 1; i <= Math.pow(n, 2); i++) {
-            System.out.printf("I am %d years old\n", i);
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                System.out.printf("\nHi hello :)");
+            }
         }
     }
 
-    public void printNtimes(int n){
+    public void printNTimes(int n){
         for(int i = 1; i <= n; i++){
-            System.out.printf("\nThis has been printed %d times.", n);
+            System.out.printf("\nThis has been printed %d times.", i);
         }
     }
 }
